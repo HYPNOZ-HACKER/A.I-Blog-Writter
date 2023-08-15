@@ -1,6 +1,7 @@
 <p align="center">
 <a href="#"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
+
 # AI Blog Generation Bot
 
 The AI Blog Generation Bot is a Python-based project that leverages OpenAI's GPT-3.5 model to automatically generate blog content with just a few clicks. This bot allows users to input a title, specify the number of sections, and provide section titles. The bot then uses the GPT-3.5 model to generate coherent and contextually relevant content for each section of the blog.
